@@ -23,7 +23,8 @@ Proposta de desafio da DIO "Natty or Not"
 Nesse projeto será realizado a composição de uma musica utiliando 100% das tecnologias de IAs generativas. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Liste as IAs Generativas e outras ferramentas usadas.
+Primeiramente criei 3 inspirações de musicas pela IA,  moses. 
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
@@ -35,9 +36,8 @@ Apresente os resultados do seu projeto
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 Em adção inlcui uma nova pesquisa refinada no notebook LM das principais IAs generativas em maio de 2026.
-E posteriormente usei o manus para criar um mapa mental personalizado
-<img width="896" height="503" alt="image" src="https://github.com/user-attachments/assets/c3dd7cf9-921f-4a00-8673-f929a6c8115b" />
-
+E posteriormente usei o manus para criar um mapa mental personalizado das principais Ias usadas no momento.
+![Mapa Mental](mapa_mental_ia_futurista_completo_v2.png)
 ```
 
 ### Exemplos e Insigths
