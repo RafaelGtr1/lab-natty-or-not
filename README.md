@@ -33,12 +33,12 @@ Primeiramente fiz uma pesquisa utilizando NotebookLm das principais IAs generati
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
+```
+ 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 Em adção inlcui uma nova pesquisa refinada no notebook LM das principais IAs generativas em maio de 2026.
 E posteriormente usei o manus para criar um mapa mental personalizado das principais Ias usadas no momento.
 ![Mapa Mental](mapa_mental_ia_futurista_completo_v2.png)
-```
 
 ### Exemplos e Insigths
 
@@ -53,4 +53,4 @@ E posteriormente usei o manus para criar um mapa mental personalizado das princi
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
 
 Slide / mapa mental atualizado com as novas tecnologias. 
-![Mapa Mental](mapa_mental_ia_futurista_completo_v2.png)
+
