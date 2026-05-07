@@ -53,6 +53,4 @@ E posteriormente usei o manus para criar um mapa mental personalizado
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
 
 Slide / mapa mental atualizado com as novas tecnologias. 
-/images/ 
-![mapa_mental_ia_detalhado_2026 (1).png]
-![Imagem](files/mapa_mental_ia_detalhado_2026 (1).png)
+https://github.com/RafaelGtr1/lab-natty-or-not/blob/main/mapa_mental_ia_futurista_completo_v2.png
