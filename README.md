@@ -54,3 +54,4 @@ E posteriormente usei o manus para criar um mapa mental personalizado
 
 Slide / mapa mental atualizado com as novas tecnologias. 
 https://github.com/RafaelGtr1/lab-natty-or-not/blob/main/mapa_mental_ia_futurista_completo_v2.png
+![Mapa Mental](https://raw.githubusercontent.com/RafaelGtr1/lab-natty-or-not/main/mapa_mental_ia_futurista_completo_v2.png)
