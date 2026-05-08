@@ -38,7 +38,7 @@ Apresente os resultados do seu projeto
 Comente sobre o desafio de criar algo 'natty' com IA.
 Em adção inlcui uma nova pesquisa refinada no notebook LM das principais IAs generativas em maio de 2026.
 E posteriormente usei o manus para criar um mapa mental personalizado das principais Ias usadas no momento.
-![Mapa Mental](novo_mapa.png)
+![Mapa Mental](novo mapa.png)
 
 ### Exemplos e Insigths
 
