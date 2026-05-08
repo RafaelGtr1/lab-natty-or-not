@@ -24,8 +24,10 @@ Nesse projeto será realizado a composição de uma musica utiliando 100% das te
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas.
-notebook LM para fazer uma Deepsearsh das IAS mais úteis em 2026> Manus para gerar mapa mental
-> Chat gpt para moldar o prompt > SUNO para criar a musica.
+> notebook LM para fazer uma Deepsearsh das IAS mais úteis em 2026
+> Manus para gerar mapa mental
+> Chat gpt para moldar o prompt
+> SUNO para criar a musica.
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
