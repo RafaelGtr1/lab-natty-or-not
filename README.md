@@ -45,7 +45,7 @@ Posteriormente localizei a IA de criação de musica SUNO,
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
+![resultado] (Canto do Brasil.mp3)
 ```
 
 ### Exemplos e Insigths
