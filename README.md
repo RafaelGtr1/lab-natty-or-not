@@ -24,32 +24,29 @@ Nesse projeto será realizado a composição de uma musica utiliando 100% das te
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas.
-Primeiramente criei 3 inspirações de musicas pela IA,  moses. 
+notebook LM para fazer uma Deepsearsh das IAS mais úteis em 2026> Manus para gerar mapa mental
+> Chat gpt para moldar o prompt > SUNO para criar a musica.
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
-Primeiramente fiz uma pesquisa utilizando NotebookLm das principais IAs generativas em 2026.    
+Primeiramente fiz uma pesquisa utilizando NotebookLm das principais IAs generativas em 2026.
+Então fiz uma solicitação de prompt no Chat Gpt solicitando o seguinte pronpt; Quero criar um pronpt para criar uma musica no suno, se trata da criação de uma musica do hino nacional completo, como referencia gostaria de criar um repertorio baseado nos estilos das bandas, HILSONG ( gospel ), E GABRIELA ROCHA ( brasil Gospel ) E adicionar também alguns traços do estilo de criação do produtor Hanzimer.
+Resultado ( Epic Brazilian patriotic worship anthem, cinematic gospel, emotional female lead vocals, huge choir, orchestral soundtrack, atmospheric guitars, emotional piano, deep drums, uplifting crowd chants, patriotic and hopeful mood, inspired by modern stadium anthem energy similar to Viva la Vida, massive cinematic crescendos, Hans Zimmer style orchestration, Hillsong-style worship atmosphere, Brazilian gospel emotion, unity of the Brazilian people, triumphant and emotional.)   
+
+Posteriormente localizei a IA de criação de musica SUNO,     
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ```
- 💭 Reflexão (Opcional)
+
+### Exemplos e Insigths
+[Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+
+## Links Interessantes
 Em adção incluí uma nova pesquisa refinada no notebook LM das principais IAs generativas em maio de 2026.
 E posteriormente usei o manus para criar um mapa mental personalizado das principais Ias usadas no momento.
 ![Trend Map Generative AI notebokLM/manus](exemplos/novo_mapa.png)
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
 
 Slide / mapa mental atualizado com as novas tecnologias. 
 
