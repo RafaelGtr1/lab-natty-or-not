@@ -32,8 +32,14 @@ Liste as IAs Generativas e outras ferramentas usadas.
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
 Primeiramente fiz uma pesquisa utilizando NotebookLm das principais IAs generativas em 2026.
-Então fiz uma solicitação de prompt no Chat Gpt solicitando o seguinte pronpt; Quero criar um pronpt para criar uma musica no suno, se trata da criação de uma musica do hino nacional completo, como referencia gostaria de criar um repertorio baseado nos estilos das bandas, HILSONG ( gospel ), E GABRIELA ROCHA ( brasil Gospel ) E adicionar também alguns traços do estilo de criação do produtor Hanzimer.
-Resultado ( Epic Brazilian patriotic worship anthem, cinematic gospel, emotional female lead vocals, huge choir, orchestral soundtrack, atmospheric guitars, emotional piano, deep drums, uplifting crowd chants, patriotic and hopeful mood, inspired by modern stadium anthem energy similar to Viva la Vida, massive cinematic crescendos, Hans Zimmer style orchestration, Hillsong-style worship atmosphere, Brazilian gospel emotion, unity of the Brazilian people, triumphant and emotional.)   
+Então fiz uma solicitação de prompt no Chat Gpt solicitando o seguinte pronpt;
+Quero criar um pronpt para criar uma musica no suno, se trata da criação de uma musica do hino nacional completo,
+ como referencia gostaria de criar um repertorio baseado nos estilos das bandas, HILSONG ( gospel ), E GABRIELA ROCHA ( brasil Gospel )
+ E adicionar também alguns traços do estilo de criação do produtor Hanzimer.
+Resultado ( Epic Brazilian patriotic worship anthem, cinematic gospel, emotional female lead vocals, huge choir, orchestral soundtrack,
+ atmospheric guitars, emotional piano, deep drums, uplifting crowd chants, patriotic and hopeful mood, inspired by modern stadium anthem
+ energy similar to Viva la Vida, massive cinematic crescendos, Hans Zimmer style orchestration, Hillsong-style worship atmosphere,
+ Brazilian gospel emotion, unity of the Brazilian people, triumphant and emotional.)   
 
 Posteriormente localizei a IA de criação de musica SUNO,     
 
