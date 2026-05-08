@@ -35,10 +35,9 @@ Apresente os resultados do seu projeto
 
 ```
  💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-Em adção inlcui uma nova pesquisa refinada no notebook LM das principais IAs generativas em maio de 2026.
+Em adção incluí uma nova pesquisa refinada no notebook LM das principais IAs generativas em maio de 2026.
 E posteriormente usei o manus para criar um mapa mental personalizado das principais Ias usadas no momento.
-![novo_mapa](exemplos/novo_mapa.png)
+![Trend Map Generative AI notebokLM/manus](exemplos/novo_mapa.png)
 
 ### Exemplos e Insigths
 
@@ -48,7 +47,7 @@ E posteriormente usei o manus para criar um mapa mental personalizado das princi
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
 
